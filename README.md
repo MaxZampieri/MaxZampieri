@@ -1,4 +1,4 @@
-## Ola, sou o Max e sou estudante de programação.
+## Ola, meu nome é Max e sou estudante de programação.
 <div align="center">
   <a href="https://github.com/MaxZampieri">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaxZampieri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
