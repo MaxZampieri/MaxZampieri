@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, meu nome é Max e sou estudante de programação </h1>
+  <h1>Web Developer Front End</h1>
   </div>
 <div align="center">
   <a href="https://github.com/MaxZampieri">
